@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/test01_springcloud_service_consumer/test01_springcloud_service_consumer.iml" filepath="$PROJECT_DIR$/test01_springcloud_service_consumer/test01_springcloud_service_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/test01_springcloud_service_parent/test01_springcloud_service_parent.iml" filepath="$PROJECT_DIR$/test01_springcloud_service_parent/test01_springcloud_service_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/test01_springcloud_service_provider/test01_springcloud_service_provider.iml" filepath="$PROJECT_DIR$/test01_springcloud_service_provider/test01_springcloud_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01_springcloud_service_provider2/test01_springcloud_service_provider2.iml" filepath="$PROJECT_DIR$/test01_springcloud_service_provider2/test01_springcloud_service_provider2.iml" />
     </modules>
   </component>
 </project>

@@ -16,6 +16,13 @@
         <spring-cloud-alibaba.version>2.2.1.RELEASE</spring-cloud-alibaba.version>
     </properties>
 
+    <modules>
+        <module>../test01_springcloud_service_consumer</module>
+        <module>../test01_springcloud_service_commons</module>
+        <module>../test01_springcloud_service_provider</module>
+        <module>../test01_springcloud_service_provider2</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>

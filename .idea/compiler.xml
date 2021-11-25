@@ -7,9 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="test01_springcloud_service_provider" />
-        <module name="test01_springcloud_service_consumer" />
-        <module name="test01_springcloud_service_parent" />
+        <module name="test01_springcloud_service_provider2" />
         <module name="test01_springcloud_service_commons" />
+        <module name="test01_springcloud_service_parent" />
+        <module name="test01_springcloud_service_consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -17,6 +18,7 @@
       <module name="test01_springcloud_service_consumer" target="11" />
       <module name="test01_springcloud_service_parent" target="11" />
       <module name="test01_springcloud_service_provider" target="11" />
+      <module name="test01_springcloud_service_provider2" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

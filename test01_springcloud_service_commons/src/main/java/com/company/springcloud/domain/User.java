@@ -2,7 +2,6 @@ package com.company.springcloud.domain;
 
 import org.springframework.stereotype.Component;
 
-@Component
 public class User {
     private String name;
     private Integer id;

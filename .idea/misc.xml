@@ -7,10 +7,11 @@
         <option value="$PROJECT_DIR$/test01_springcloud_service_commons/pom.xml" />
         <option value="$PROJECT_DIR$/test01_springcloud_service_provider/pom.xml" />
         <option value="$PROJECT_DIR$/test01_springcloud_service_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/test01_springcloud_service_provider2/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
